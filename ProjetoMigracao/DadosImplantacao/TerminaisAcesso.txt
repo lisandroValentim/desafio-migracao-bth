@@ -1,0 +1,6 @@
+nome|descricao|numero 
+Acesso principal|Principal acesso na matriz da empresa|1
+Entrada lateral|Segundo acesso na matriz da empresa|2
+Registro interno|Terminal interno para registro matriz|3
+Acesso principal|Acesso principal na filial|4
+Registro marcação|Terminal acesso escritório|5 
